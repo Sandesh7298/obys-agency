@@ -997,10 +997,14 @@ body:has(#nav-part2 h4:hover) #behindmouse {
   }
 
   .line h1 {
-    font-size: 6.5vw;
+    font-size: 8.5vw;
     text-transform: uppercase;
     font-weight: 900;
     white-space: nowrap;
+  }
+
+  .line h2 {
+    font-size: 8vw;
   }
 
   #page1 {
